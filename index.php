@@ -66,7 +66,7 @@
 		<div class="wrapp">
             <p> Numero de  lista: 26 </p>
             <p> SUBMÓDULO 2 Desarrolla aplicaciones Web con conexión a bases de datos</p>
-            <p> </p>
+            <p>https://github.com/JennyMendez17/proyectou2 </p>
 		</div>
 	</footer>
 </body>
